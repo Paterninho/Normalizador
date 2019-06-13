@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="NormalizaDB:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/NormalizaDB_jar</output-path>
+    <root id="archive" name="NormalizaDB.jar">
+      <element id="module-output" name="NormalizaDB" />
+    </root>
+  </artifact>
+</component>
